@@ -453,7 +453,7 @@ Contributions, suggestions, and improvements are welcome.
 Backend Software Engineer | Java | Spring Boot | PostgreSQL | Docker | Redis | Kafka
 
 - GitHub: https://github.com/engripaye
-- LinkedIn: https://linkedin.com/in/engripaye
+- LinkedIn: https://linkedin.com/in/engripayebabatunde
 
 ---
 
