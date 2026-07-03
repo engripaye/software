@@ -1,13 +1,12 @@
 spring:
   application:
     name: software
-server:
-  port: 8080
 
   datasource:
     url: jdbc:postgresql://localhost:5432/software
-    username: user
-    password: password
+    username: mac
+    password:
+    driver-class-name: org.postgresql.Driver
 
   jpa:
     hibernate:
@@ -16,3 +15,6 @@ server:
     properties:
       hibernate:
         format_sql: true
+
+server:
+  port: 8080
