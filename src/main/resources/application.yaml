@@ -6,8 +6,8 @@ server:
 
   datasource:
     url: jdbc:postgresql://localhost:5432/software
-    username:
-    password:
+    username: user
+    password: password
 
   jpa:
     hibernate:
